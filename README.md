@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/mightykillrr/mightykillrr/raw/main/hm.gif" align="center" style="width: 100%" />
-</div>  
+
 
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 <h3 align="center">A passionate Machine learning engineer/ Data scientist From India</h3>
