@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://github.com/Addy0000/Addy0000/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif" align="center" style="width: 100%" />
+</div>  
 
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 <h3 align="center">A passionate Machine learning engineer/ Data scientist From India</h3>
