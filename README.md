@@ -16,4 +16,4 @@
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Addy0000&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykillrr&hide_border=true&layout=compact" align="left" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addy0000&hide_border=true&layout=compact" align="left" /> 
