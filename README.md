@@ -5,9 +5,9 @@
 <h1 align="center">Hi , I'm Adarsh Tiwari :)</h1>
 <h3 align="center">A passionate Machine learning engineer/ Data scientist</h3>
 
-- 📫 How to reach me **adarsht3322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **adarsht3322@gmail.com**
 <p align="left">
 </p>
 
